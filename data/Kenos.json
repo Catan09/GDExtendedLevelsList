@@ -7,4 +7,13 @@
     "verification": "https://youtu.be/Bs1kVySdUtI",
     "percentToQualify": 49,
     "password": "No Password",
-    "records":
+    "records":[
+        {
+            "user": "Dolphy",
+            "link": "https://www.youtube.com/watch?v=bugOZOOYx3M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
+    
