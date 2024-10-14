@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 58673581,
+    "name": "Kenos",
+    "author": "npesta",
+    "creators": ["Bianox", "TrusTa", "Noobas", "Eclipsed", "Zimnyte", "Terron", "Lazuli", "KrampuX", "SlimJim", "Nikrodox", "ChiefFlurry", "Salaxium", "Spectex", "Pennutoh", "Splash"],
+    "verifier": "npesta",
+    "verification": "https://youtu.be/Bs1kVySdUtI",
+    "percentToQualify": 49,
+    "password": "No Password",
     "records": [
         {
             "user": "Sample_Victor_1",
