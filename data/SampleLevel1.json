@@ -7,12 +7,4 @@
     "verification": "https://youtu.be/Bs1kVySdUtI",
     "percentToQualify": 49,
     "password": "No Password",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
-}
+    "records":
